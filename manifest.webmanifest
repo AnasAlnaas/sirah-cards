@@ -1,0 +1,28 @@
+{
+  "name": "بطاقات السيرة",
+  "short_name": "بطاقات السيرة",
+  "description": "لعبة بطاقات تفاعلية في السيرة النبوية للصفوف والحلقات.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#04101F",
+  "theme_color": "#04101F",
+  "categories": ["education", "games"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
